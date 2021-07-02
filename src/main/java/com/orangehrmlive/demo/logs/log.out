@@ -1,0 +1,51 @@
+2021-07-01 23:07:90 INFO  BasePage :31 - Launching Chrome Browser 
+2021-07-01 23:07:94 INFO  BasePage :31 - Launching Chrome Browser 
+2021-07-02 11:07:127 INFO  BasePage :31 - Launching Chrome Browser 
+2021-07-02 11:07:564 INFO  BasePage :31 - Launching Chrome Browser 
+2021-07-02 11:07:26 INFO  BasePage :31 - Launching Chrome Browser 
+2021-07-02 12:07:328 INFO  BasePage :31 - Launching Chrome Browser 
+2021-07-02 12:07:795 INFO  BasePage :31 - Launching Chrome Browser 
+2021-07-02 12:07:469 INFO  LoginPage :24 - sending text to username field[[ChromeDriver: chrome on WINDOWS (1397e317e387a4844998c120995ecc1d)] -> xpath: //input[@id='txtUsername']]
+2021-07-02 12:07:875 INFO  LoginPage :29 - sending text to password field[[ChromeDriver: chrome on WINDOWS (1397e317e387a4844998c120995ecc1d)] -> xpath: //input[@id='txtPassword']]
+2021-07-02 12:07:188 INFO  LoginPage :34 - clicking on Login Button[[ChromeDriver: chrome on WINDOWS (1397e317e387a4844998c120995ecc1d)] -> xpath: //input[@id='btnLogin']]
+2021-07-02 12:07:864 INFO  DashBoardPage :19 - getting welcome text when admin logs inProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Welcome Paul')]'
+2021-07-02 13:07:307 INFO  BasePage :31 - Launching Chrome Browser 
+2021-07-02 13:07:354 INFO  LoginPage :24 - sending text to username field[[ChromeDriver: chrome on WINDOWS (5fd6df4e927654aeb6d726334f84d455)] -> xpath: //input[@id='txtUsername']]
+2021-07-02 13:07:837 INFO  LoginPage :29 - sending text to password field[[ChromeDriver: chrome on WINDOWS (5fd6df4e927654aeb6d726334f84d455)] -> xpath: //input[@id='txtPassword']]
+2021-07-02 13:07:224 INFO  LoginPage :34 - clicking on Login Button[[ChromeDriver: chrome on WINDOWS (5fd6df4e927654aeb6d726334f84d455)] -> xpath: //input[@id='btnLogin']]
+2021-07-02 13:07:711 INFO  DashBoardPage :19 - getting welcome text when admin logs inProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Welcome Paul')]'
+2021-07-02 13:07:373 INFO  BasePage :31 - Launching Chrome Browser 
+2021-07-02 13:07:246 INFO  LoginPage :24 - sending text to username field[[ChromeDriver: chrome on WINDOWS (b6d5eb1438c72768b3e13d3f504d219a)] -> xpath: //input[@id='txtUsername']]
+2021-07-02 13:07:896 INFO  LoginPage :29 - sending text to password field[[ChromeDriver: chrome on WINDOWS (b6d5eb1438c72768b3e13d3f504d219a)] -> xpath: //input[@id='txtPassword']]
+2021-07-02 13:07:393 INFO  LoginPage :34 - clicking on Login Button[[ChromeDriver: chrome on WINDOWS (b6d5eb1438c72768b3e13d3f504d219a)] -> xpath: //input[@id='btnLogin']]
+2021-07-02 13:07:57 INFO  DashBoardPage :19 - getting welcome text when admin logs inProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Welcome Paul')]'
+2021-07-02 13:07:735 INFO  BasePage :31 - Launching Chrome Browser 
+2021-07-02 13:07:786 INFO  LoginPage :24 - sending text to username field[[ChromeDriver: chrome on WINDOWS (3c8411ec511239e03ab9a09c9aa04dc6)] -> xpath: //input[@id='txtUsername']]
+2021-07-02 13:07:287 INFO  LoginPage :29 - sending text to password field[[ChromeDriver: chrome on WINDOWS (3c8411ec511239e03ab9a09c9aa04dc6)] -> xpath: //input[@id='txtPassword']]
+2021-07-02 13:07:868 INFO  LoginPage :34 - clicking on Login Button[[ChromeDriver: chrome on WINDOWS (3c8411ec511239e03ab9a09c9aa04dc6)] -> xpath: //input[@id='btnLogin']]
+2021-07-02 13:07:439 INFO  DashBoardPage :19 - getting welcome text when admin logs in[[ChromeDriver: chrome on WINDOWS (3c8411ec511239e03ab9a09c9aa04dc6)] -> xpath: //a[contains(text(),'Welcome FirstName')]]
+2021-07-02 13:07:205 INFO  BasePage :31 - Launching Chrome Browser 
+2021-07-02 13:07:476 INFO  LoginPage :27 - sending text to username field[[ChromeDriver: chrome on WINDOWS (631062fea493108cc3ca287182363988)] -> xpath: //input[@id='txtUsername']]
+2021-07-02 13:07:748 INFO  LoginPage :32 - sending text to password field[[ChromeDriver: chrome on WINDOWS (631062fea493108cc3ca287182363988)] -> xpath: //input[@id='txtPassword']]
+2021-07-02 13:07:77 INFO  LoginPage :37 - clicking on Login Button[[ChromeDriver: chrome on WINDOWS (631062fea493108cc3ca287182363988)] -> xpath: //input[@id='btnLogin']]
+2021-07-02 13:07:429 INFO  DashBoardPage :25 - click on welcome name button[[ChromeDriver: chrome on WINDOWS (631062fea493108cc3ca287182363988)] -> xpath: //a[contains(text(),'Welcome FirstName')]]
+2021-07-02 13:07:24 INFO  DashBoardPage :29 - clicking on logout button[[ChromeDriver: chrome on WINDOWS (631062fea493108cc3ca287182363988)] -> xpath: //a[contains(text(),'Logout')]]
+2021-07-02 13:07:805 INFO  BasePage :31 - Launching Chrome Browser 
+2021-07-02 13:07:793 INFO  LoginPage :27 - sending text to username field[[ChromeDriver: chrome on WINDOWS (b60cebc4642c801eaddc718ec41fb208)] -> xpath: //input[@id='txtUsername']]
+2021-07-02 13:07:37 INFO  LoginPage :32 - sending text to password field[[ChromeDriver: chrome on WINDOWS (b60cebc4642c801eaddc718ec41fb208)] -> xpath: //input[@id='txtPassword']]
+2021-07-02 13:07:331 INFO  LoginPage :37 - clicking on Login Button[[ChromeDriver: chrome on WINDOWS (b60cebc4642c801eaddc718ec41fb208)] -> xpath: //input[@id='btnLogin']]
+2021-07-02 13:07:252 INFO  DashBoardPage :28 - click on welcome name button[[ChromeDriver: chrome on WINDOWS (b60cebc4642c801eaddc718ec41fb208)] -> xpath: //a[@id='welcome']]
+2021-07-02 13:07:517 INFO  DashBoardPage :33 - clicking on logout button[[ChromeDriver: chrome on WINDOWS (b60cebc4642c801eaddc718ec41fb208)] -> xpath: //a[contains(text(),'Logout')]]
+2021-07-02 13:07:824 INFO  LoginPage :42 - getting text from Login Panel[[ChromeDriver: chrome on WINDOWS (b60cebc4642c801eaddc718ec41fb208)] -> xpath: //div[@id='logInPanelHeading']]
+2021-07-02 14:07:173 INFO  BasePage :31 - Launching Chrome Browser 
+2021-07-02 14:07:881 INFO  LoginPage :27 - sending text to username field[[ChromeDriver: chrome on WINDOWS (487c0147aaa4a8d95cefaac169328277)] -> xpath: //input[@id='txtUsername']]
+2021-07-02 14:07:210 INFO  LoginPage :32 - sending text to password field[[ChromeDriver: chrome on WINDOWS (487c0147aaa4a8d95cefaac169328277)] -> xpath: //input[@id='txtPassword']]
+2021-07-02 14:07:750 INFO  LoginPage :37 - clicking on Login Button[[ChromeDriver: chrome on WINDOWS (487c0147aaa4a8d95cefaac169328277)] -> xpath: //input[@id='btnLogin']]
+2021-07-02 14:07:868 INFO  DashBoardPage :23 - getting welcome text when admin logs inProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Welcome FirstName')]'
+2021-07-02 14:07:551 INFO  BasePage :31 - Launching Chrome Browser 
+2021-07-02 14:07:432 INFO  LoginPage :27 - sending text to username field[[ChromeDriver: chrome on WINDOWS (02fb752948718c66ef9b40dc97177abb)] -> xpath: //input[@id='txtUsername']]
+2021-07-02 14:07:791 INFO  LoginPage :32 - sending text to password field[[ChromeDriver: chrome on WINDOWS (02fb752948718c66ef9b40dc97177abb)] -> xpath: //input[@id='txtPassword']]
+2021-07-02 14:07:17 INFO  LoginPage :37 - clicking on Login Button[[ChromeDriver: chrome on WINDOWS (02fb752948718c66ef9b40dc97177abb)] -> xpath: //input[@id='btnLogin']]
+2021-07-02 14:07:671 INFO  DashBoardPage :28 - click on welcome name button[[ChromeDriver: chrome on WINDOWS (02fb752948718c66ef9b40dc97177abb)] -> xpath: //a[@id='welcome']]
+2021-07-02 14:07:987 INFO  DashBoardPage :33 - clicking on logout button[[ChromeDriver: chrome on WINDOWS (02fb752948718c66ef9b40dc97177abb)] -> xpath: //a[contains(text(),'Logout')]]
+2021-07-02 14:07:452 INFO  LoginPage :42 - getting text from Login Panel[[ChromeDriver: chrome on WINDOWS (02fb752948718c66ef9b40dc97177abb)] -> xpath: //div[@id='logInPanelHeading']]
